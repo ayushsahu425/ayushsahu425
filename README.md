@@ -6,9 +6,9 @@
     # 🌟 Ayush Sahu
     ## 💻 Full-Stack Web Developer & Technical Consultant | Freelancer
     
-    <p>👋 Building scalable, high-performance digital solutions across India. Specializing in MERN stack and end-to-end SDLC management.</p>
+    👋 Building scalable, high-performance digital solutions across India. Specializing in MERN stack and end-to-end SDLC management.
     
-    <p>
+    
         <a href="https://www.linkedin.com/in/ayushsahu0/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
@@ -18,7 +18,7 @@
         <a href="https://wa.me/916260081483" target="_blank">
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
         </a>
-    </p>
+    
     <br>
 
 Hey My Name Is Ayush Sahu...<br><br>## 🚀 The Freelancer's Edge: Introduction<br><br>As a Full-Stack Web Developer & Technical Consultant, I successfully architect and deploy end-to-end applications <br>for diverse business clients across India. My focus is on delivering **scalable, high-performance, and SEO-optimized** digital solutions, <br>managing the entire project lifecycle from concept to final technical delivery.<br><br><br>🔭  I'm currently working on | End-to-End Application Development as a **Full-Stack Freelance Software Developer**, actively delivering new commercial projects using **React.js** and **Node.js**. <br>🤝  I'm looking to collaborate on | Scalable **MERN stack applications** and challenging projects requiring strong **SEO and performance optimization**. <br>👑  I'm looking for help with | Exploring advanced **AI/ML integration techniques** as I complete my B.Tech in AI and ML. <br>🌱 I'm currently learning | Advanced concepts in **AI and ML** (part of my B.Tech degree) to integrate intelligence into full-stack solutions. <br>💬  Ask me about | **Full-Stack Development, SEO, WordPress/WooCommerce, CRM Systems,** and managing the complete **SDLC** for a client. <br>⚡ Fun fact | I have successfully launched over **20+ paid commercial projects** covering diverse domains like E-commerce, Stock Trading, and Consultancy. <br><br>## 📩 Let's Build Something Great!<br><br>Have a freelance project or an idea that needs a full-stack expert? Reach out—I'm ready to turn your concept into a deployed commercial reality.<br>Contact: +916260081483 or @ayushsahu425@gmail.com
