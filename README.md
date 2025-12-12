@@ -34,10 +34,11 @@ I am proficient in deploying custom coded sites and optimizing WordPress CMS env
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Frontend** | **React.js**, HTML5, CSS3, JavaScript (ES6+) |
-| **Backend/DB** | **Node.js**, Express.js, **Mongo DB** |
+| **Frontend** | **React.js**, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS |
+| **Backend/DB** | **Node.js**, Express.js, **Mongo DB** (MERN Stack) |
 | **CMS/E-commerce** | **WordPress**, WooCommerce, Elementor, Razorpay Payment Gateway |
-| **Consulting** | SEO Tools, Core Web Vitals, Web Hosting Management |
+| **Hosting/Infra** | **cPanel**, Webmail Management, DNS Records, SSL Configuration, Server Management |
+| **Consulting** | SEO Tools, Core Web Vitals, Web Hosting Management, SDLC |
 
 ---
 
