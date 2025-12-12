@@ -57,15 +57,15 @@ These projects showcase my ability to deliver full-stack solutions and end-to-en
 * **Tech Highlight:** Built using foundational front-end technologies: **HTML, CSS, and JavaScript**. The primary focus was on advanced **On-Page SEO strategies** for top search engine ranking.
 * **Key Achievement:** Successfully launched a large-scale, content-rich static website that is fully **SEO-optimized**, demonstrating proficiency in creating clean, fast-loading, and easily crawlable code.
 * **Live Example:** `arvindled.com`
-* **Visual Showcase:**
-    > 🖼️ **Insert GIF/Image:** A scroll-through GIF of the `arvindled.com` landing page, or a screenshot highlighting the clean, multi-page navigation.
+
+  
 
 ### 2. **Custom CRM System** (MERN Stack)
 * **Purpose:** Lead tracking system for a Stock Trading company.
 * **Tech Highlight:** Worked on **React.js, Node.js, and Mongo DB**. Includes secure Admin and User Dashboards.
 * **Live Example:** `Tradingpathshala.com`
-* **Visual Showcase:**
-    > 🖼️ **Insert GIF/Image:** **The most critical visual!** Place a captivating GIF of the **CRM Admin Dashboard** showing lead flow, metrics, or filtering.
+
+   
 
 
     ## 3. **Digital Marketing & Advertising Portfolio**
@@ -90,7 +90,7 @@ These projects showcase my ability to deliver full-stack solutions and end-to-en
 * **Tech Highlight:** Focus on high-impact visual design, responsive layout, and clean navigation for presenting creative assets.
 * **Live Example:** `yashsoadsaxena.com`
 * **Visual Showcase:**
-    > 🖼️ **Insert GIF/Image:** A visually appealing screenshot of the portfolio's landing page, highlighting the clean, artistic design.
+ 
 
 ---
 
@@ -107,8 +107,13 @@ These projects showcase my ability to deliver full-stack solutions and end-to-en
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushsahu425&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzay.maurodesouzay&left_color=black"  />
+</div>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushsahu425&icon=0&color=0)](https://visitcount.itsvg.in)
