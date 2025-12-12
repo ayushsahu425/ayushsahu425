@@ -76,7 +76,7 @@ These projects showcase my ability to deliver full-stack solutions and end-to-en
 ### 4. **E-commerce WordPress Development** (Fashion/Course Selling)
 * **Purpose:** Fully functional e-commerce websites (e.g., selling trendy clothes or courses).
 * **Tech Highlight:** Developed on **WordPress** and **WooCommerce**, integrated with payment gateways (Razorpay).
-* **Live Examples:** `Vstrends.com`, `Premiumcoursedeals.com`, 'deltastationary.com
+* **Live Examples:** `Vstrends.com`, `Premiumcoursedeals.com`, 'deltastationary.com'
 
 ### 5. **Stock Trading Website** (Full-Stack)
 * **Purpose:** Created a Basic website for stock company.
