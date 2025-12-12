@@ -38,24 +38,47 @@ I am proficient in deploying custom coded sites and optimizing WordPress CMS env
 
 These projects showcase my ability to deliver full-stack solutions and end-to-end results for client businesses.
 
-### 1. **Custom CRM System** (MERN Stack)
+
+### 1. **Corporate SEO-Optimized Website** (20+ Pages)
+* **Project Name:** Arvind LED Brand Website
+* **Purpose:** High-impact, multi-page corporate website (**20+ pages**) designed for maximum visibility and lead generation.
+* **Tech Highlight:** Built using foundational front-end technologies: **HTML, CSS, and JavaScript**. The primary focus was on advanced **On-Page SEO strategies** for top search engine ranking.
+* **Key Achievement:** Successfully launched a large-scale, content-rich static website that is fully **SEO-optimized**, demonstrating proficiency in creating clean, fast-loading, and easily crawlable code.
+* **Live Example:** `arvindled.com`
+* **Visual Showcase:**
+    > 🖼️ **Insert GIF/Image:** A scroll-through GIF of the `arvindled.com` landing page, or a screenshot highlighting the clean, multi-page navigation.
+
+### 2. **Custom CRM System** (MERN Stack)
 * **Purpose:** Lead tracking system for a Stock Trading company.
 * **Tech Highlight:** Worked on **React.js, Node.js, and Mongo DB**. Includes secure Admin and User Dashboards.
 * **Live Example:** `Tradingpathshala.com`
 * **Visual Showcase:**
     > 🖼️ **Insert GIF/Image:** **The most critical visual!** Place a captivating GIF of the **CRM Admin Dashboard** showing lead flow, metrics, or filtering.
 
-### 2. **E-commerce WordPress Development** (Fashion/Course Selling)
+
+    ## 3. **Digital Marketing & Advertising Portfolio**
+* **Purpose:** Developed multiple SEO-based marketing, advertising, and printing company websites.
+* **Tech Highlight:** Leveraged modern frameworks like **Tailwind CSS** and **Bootstrap**, alongside **HTML, CSS, and JavaScript**, ensuring high responsiveness and speed for marketing goals. Includes use of Google API and Web 3 Forms API.
+* **Live Examples:** `mdadvertising.com`, `shrihariprint.com`, `vayunmedia.com`, `vpprinters.site`, `socialkaari.com`
+
+### 4. **E-commerce WordPress Development** (Fashion/Course Selling)
 * **Purpose:** Fully functional e-commerce websites (e.g., selling trendy clothes or courses).
 * **Tech Highlight:** Developed on **WordPress** and **WooCommerce**, integrated with payment gateways (Razorpay).
-* **Live Examples:** `Vstrends.com`, `Premiumcoursedeals.com`
-* **Visual Showcase:**
-    > 🖼️ **Insert GIF/Image:** A stunning full-width screenshot of the **Vstrends.com** storefront or a GIF showing the shopping cart process.
+* **Live Examples:** `Vstrends.com`, `Premiumcoursedeals.com`, 'deltastationary.com
 
-### 3. **Stock Trading Website** (Full-Stack)
+### 5. **Stock Trading Website** (Full-Stack)
 * **Purpose:** Created a Basic website for stock company.
 * **Tech Highlight:** Worked on various full stack technologies.
 * **Live Example:** `Equitypathshala.com`
+
+
+### 6. **Creative Portfolio Website** (Game Designer)
+* **Project Name:** Yash Soadsaxena Portfolio
+* **Purpose:** Custom-designed online portfolio to showcase the work, skills, and projects of a professional Game Designer.
+* **Tech Highlight:** Focus on high-impact visual design, responsive layout, and clean navigation for presenting creative assets.
+* **Live Example:** `yashsoadsaxena.com`
+* **Visual Showcase:**
+    > 🖼️ **Insert GIF/Image:** A visually appealing screenshot of the portfolio's landing page, highlighting the clean, artistic design.
 
 ---
 
