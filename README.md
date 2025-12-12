@@ -1,3 +1,32 @@
+<div align="center">
+    <img src="YOUR_PROFILE_IMAGE_URL" alt="Ayush Sahu Profile Picture" width="160" style="border-radius: 50%; border: 4px solid #00c6ff; box-shadow: 0 0 10px rgba(0, 198, 255, 0.7);">
+    
+    # 🌟 Ayush Sahu
+    ## 💻 Full-Stack Web Developer & Technical Consultant | Freelancer
+    
+    <p>
+        As a **Full-Stack Freelance Developer**, I transform concepts into deployed commercial realities.<br>
+        My expertise lies in building **scalable MERN stack solutions** (React.js, Node.js) and delivering high-performance, **SEO-optimized** digital products. I manage the entire SDLC, from client acquisition to technical delivery, ensuring every one of my **20+ paid commercial projects** drives tangible business results.
+    </p>
+    
+    <p>
+        <a href="https://www.linkedin.com/in/ayushsahu0/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:ayushsahu425@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+        <a href="https://wa.me/916260081483" target="_blank">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+        </a>
+    </p>
+    <br>
+</div>
+
+---
+
+
+
 # 💫 About Me:
 
 <div align="center">
