@@ -4,7 +4,7 @@
 
 
 # 💫 About Me: 
-# AYUSH SAHU| FREELANCER DEVELOPER| 3+ YEARS| 20+ PROJECTS
+#     AYUSH SAHU| FREELANCER DEVELOPER| 3+ YEARS| 20+ PROJECTS
 
 <div align="center">
     <img src="https://media.licdn.com/dms/image/v2/D5635AQFh7eTNfQqlKA/profile-framedphoto-shrink_400_400/B56ZsTNvq0IEAc-/0/1765553929154?e=1766160000&v=beta&t=AdDmpuwIIHD5ysZ8OswqWwthRVd-fJK1YbR0NTHwkHA" alt="Ayush Sahu Profile Picture" width="160" style="border-radius: 50%; border: 4px solid #00c6ff; box-shadow: 0 0 10px rgba(0, 198, 255, 0.7);">
