@@ -3,29 +3,7 @@
 <div align="center">
     <img src="YOUR_PROFILE_IMAGE_URL" alt="Ayush Sahu Profile Picture" width="160" style="border-radius: 50%; border: 4px solid #00c6ff; box-shadow: 0 0 10px rgba(0, 198, 255, 0.7);">
     
-    # 🌟 Ayush Sahu
-    ## 💻 Full-Stack Web Developer & Technical Consultant | Freelancer
-    
-    <p>
-        As a **Full-Stack Freelance Developer**, I transform concepts into deployed commercial realities.<br>
-        My expertise lies in building **scalable MERN stack solutions** (React.js, Node.js) and delivering high-performance, **SEO-optimized** digital products. I manage the entire SDLC, from client acquisition to technical delivery, ensuring every one of my **20+ paid commercial projects** drives tangible business results.
-    </p>
-    
-    <p>
-        <a href="https://www.linkedin.com/in/ayushsahu0/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="mailto:ayushsahu425@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-        <a href="https://wa.me/916260081483" target="_blank">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-        </a>
-    </p>
-    <br>
-</div>
 
----
 
 Hey My Name Is Ayush Sahu...<br><br>## 🚀 The Freelancer's Edge: Introduction<br><br>As a Full-Stack Web Developer & Technical Consultant, I successfully architect and deploy end-to-end applications <br>for diverse business clients across India. My focus is on delivering **scalable, high-performance, and SEO-optimized** digital solutions, <br>managing the entire project lifecycle from concept to final technical delivery.<br><br><br>🔭  I'm currently working on | End-to-End Application Development as a **Full-Stack Freelance Software Developer**, actively delivering new commercial projects using **React.js** and **Node.js**. <br>🤝  I'm looking to collaborate on | Scalable **MERN stack applications** and challenging projects requiring strong **SEO and performance optimization**. <br>👑  I'm looking for help with | Exploring advanced **AI/ML integration techniques** as I complete my B.Tech in AI and ML. <br>🌱 I'm currently learning | Advanced concepts in **AI and ML** (part of my B.Tech degree) to integrate intelligence into full-stack solutions. <br>💬  Ask me about | **Full-Stack Development, SEO, WordPress/WooCommerce, CRM Systems,** and managing the complete **SDLC** for a client. <br>⚡ Fun fact | I have successfully launched over **20+ paid commercial projects** covering diverse domains like E-commerce, Stock Trading, and Consultancy. <br><br>## 📩 Let's Build Something Great!<br><br>Have a freelance project or an idea that needs a full-stack expert? Reach out—I'm ready to turn your concept into a deployed commercial reality.<br>Contact: +916260081483 or @ayushsahu425@gmail.com
 
