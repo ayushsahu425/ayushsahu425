@@ -1,5 +1,5 @@
 
-# 💫 About Me:  <a href="https://github.com/ayushsahu425/myprojects.git"><img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="40" /></a><br>
+# 💫 About Me:  <a href="https://github.com/ayushsahu425/myprojects.git"><img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="120" height="60" /></a><br>
    
 
 # 👨‍💻 AYUSH SAHU: FREELANCE FULL-STACK DEVELOPER
