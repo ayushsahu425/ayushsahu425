@@ -11,7 +11,7 @@
 <br>
 <a href="https://wa.me/916260081483">
   <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="20" />
-</a>
+</a><br> <br>
 Hey My Name Is Ayush Sahu...<br><br>
 ## 🚀 Strategic Freelancer | 3+ Years of Commercial Success <br>
 
