@@ -9,8 +9,8 @@
     <img src="https://media.licdn.com/dms/image/v2/D5635AQFh7eTNfQqlKA/profile-framedphoto-shrink_400_400/B56ZsTNvq0IEAc-/0/1765553929154?e=1766160000&v=beta&t=AdDmpuwIIHD5ysZ8OswqWwthRVd-fJK1YbR0NTHwkHA" alt="Ayush Sahu Profile Picture" width="160" style="border-radius: 10px; border: 4px solid #00c6ff;  box-shadow: 0 0 10px rgba(0, 198, 255, 0.7);">
     
 <br>
-<a href="https://wa.me/916260081483">
-  <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="20" />
+<a href="https://github.com/ayushsahu425/myprojects.git">
+  <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="30" />
 </a><br> <br>
 Hey My Name Is Ayush Sahu...<br><br>
 ## 🚀 Strategic Freelancer | 3+ Years of Commercial Success <br>
