@@ -19,7 +19,7 @@ I am a dedicated **Full-Stack Web Developer and Technical Consultant**, operatin
 
 <a href="https://github.com/ayushsahu425/myprojects.git">
   <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="40" /></a><br>
-    <p> Click Here for my Projects ☝️</p>
+    <p> <b>Click Here for my Projects ☝️</b></p>
 
 My freelance track record is built on results: **I have successfully launched over 20+ paid commercial projects** covering diverse domains like **E-commerce, Stock Trading, and Consultancy, Local Businesses**. I manage the entire SDLC, ensuring scalable solutions with a strong focus on **MERN stack development** and advanced **SEO optimization**. <br>
 
