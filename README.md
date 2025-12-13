@@ -10,9 +10,9 @@
     
 <br>
 <a href="https://github.com/ayushsahu425/myprojects.git">
-  <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="30" /><br>
+  <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="30" /></a><br>
     <p> Click Here for my Projects ☝️</p>
-</a><br> <br>
+<br> <br>
 Hey My Name Is Ayush Sahu...<br><br>
 ## 🚀 Strategic Freelancer | 3+ Years of Commercial Success <br>
 
