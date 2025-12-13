@@ -9,14 +9,17 @@
     <img src="https://media.licdn.com/dms/image/v2/D5635AQFh7eTNfQqlKA/profile-framedphoto-shrink_400_400/B56ZsTNvq0IEAc-/0/1765553929154?e=1766160000&v=beta&t=AdDmpuwIIHD5ysZ8OswqWwthRVd-fJK1YbR0NTHwkHA" alt="Ayush Sahu Profile Picture" width="160" style="border-radius: 10px; border: 4px solid #00c6ff;  box-shadow: 0 0 10px rgba(0, 198, 255, 0.7);">
     
 <br>
-<a href="https://github.com/ayushsahu425/myprojects.git">
-  <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="30" /></a><br>
-    <p> Click Here for my Projects ☝️</p>
+
 <br> <br>
 Hey My Name Is Ayush Sahu...<br><br>
 ## 🚀 Strategic Freelancer | 3+ Years of Commercial Success <br>
 
 I am a dedicated **Full-Stack Web Developer and Technical Consultant**, operating as a freelancer for the **past 3 years**. I specialize in transforming client visions into deployed, high-performance digital products.
+<br> <br>
+
+<a href="https://github.com/ayushsahu425/myprojects.git">
+  <img src="MyProjects.gif" alt="WhatsApp Icon Link to My Projects" width="80" height="40" /></a><br>
+    <p> Click Here for my Projects ☝️</p>
 
 My freelance track record is built on results: **I have successfully launched over 20+ paid commercial projects** covering diverse domains like **E-commerce, Stock Trading, and Consultancy, Local Businesses**. I manage the entire SDLC, ensuring scalable solutions with a strong focus on **MERN stack development** and advanced **SEO optimization**. <br>
 
